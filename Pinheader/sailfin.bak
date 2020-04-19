@@ -1263,12 +1263,12 @@ Wire Wire Line
 	2250 5550 2250 5650
 Wire Wire Line
 	1850 5350 1650 5350
-Text Label 1850 5450 2    50   ~ 0
-AV+
 Wire Wire Line
 	7900 900  8350 900 
 Wire Bus Line
 	8700 3950 8700 5300
 Wire Bus Line
 	8250 600  8250 2900
+Text Label 1850 5450 2    50   ~ 0
+AV+
 $EndSCHEMATC
